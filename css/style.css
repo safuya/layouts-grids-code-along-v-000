@@ -1,0 +1,10 @@
+/* Responsive */
+img {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Layout */
+.row {
+  margin-bottom: 20px;
+}
